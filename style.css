@@ -49,9 +49,7 @@ body {
 }
 
 li a.active{
-  background-color: white;
-  color: black;
-  font-weight:bold;
+ font-weight:bold;
 }
 
 .container h1{
