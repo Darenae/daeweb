@@ -47,7 +47,11 @@ body {
   background-color: #555;
   color: white;
 }
-  
+
+.active{
+  font-weight:bold;
+}
+
 .container h1{
   font-family: "Arial", sans-serif;
  }
