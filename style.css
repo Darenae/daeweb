@@ -63,6 +63,7 @@ li a.active{
 .container hr{
   color:black;
   width:20%;
+  float:left;
 }
 
 .row{
