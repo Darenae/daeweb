@@ -49,8 +49,8 @@ body {
 }
 
 li a.active{
-  background-color: #4CAF50;
-  color: white;
+  background-color: white;
+  color: black;
   font-weight:bold;
 }
 
