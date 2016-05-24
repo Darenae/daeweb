@@ -5,7 +5,6 @@ body {
        -o-background-size: cover;
           background-size: cover;
 }
-a:hover{
+a:hover {
   text-decoration: underline;
-  color: red;
 }
