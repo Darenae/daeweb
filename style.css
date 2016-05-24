@@ -43,12 +43,14 @@ body {
   text-decoration: none;
 }
 
-#rightNav li a:hover{
+#rightNav li a:hover:not(.active){
   background-color: #555;
   color: white;
 }
 
 li a.active{
+  background-color: #4CAF50;
+  color: white;
   font-weight:bold;
 }
 
