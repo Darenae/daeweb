@@ -10,3 +10,10 @@ body {
   -moz-text-decoration-color: red;
   text-decoration-color: red;
 }
+.navbar-collapse{
+  text-align:center;
+}
+.navbar-nav{
+  display:inline-block;
+  float:none;
+}
