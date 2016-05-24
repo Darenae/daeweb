@@ -7,4 +7,6 @@ body {
 }
 #myNavbar a:hover {
   text-decoration: underline;
+  -moz-text-decoration-color: red;
+  text-decoration-color: red;
 }
