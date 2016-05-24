@@ -28,6 +28,10 @@ body {
 }
 }
 
+.row{
+  display:inline;
+}
 #rightNav{
+  display:inline
   float:right;
 }
