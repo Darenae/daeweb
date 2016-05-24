@@ -12,6 +12,11 @@ body {
   text-decoration-color: red;
 }
 
+.navbar{
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
 @media (min-width: 768px){
   .navbar .navbar-collapse{
   text-align:center;
@@ -22,6 +27,4 @@ body {
   vertical-align:top;
 }
 }
-h4{
-  text-align: right;
-}
+
