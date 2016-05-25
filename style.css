@@ -75,6 +75,11 @@ aside{
   padding-right:30px;
 }
 
+article{
+  padding:20px
+  float:left;
+}
+
 .news{
   padding-top: 50px;
   float:bottom;
