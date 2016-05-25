@@ -52,16 +52,16 @@ li a.active{
  font-weight:bold;
 }
 
-.container h1{
+#main h1{
   font-family: "Arial", sans-serif;
  }
 
-.container h3{
+#main h3{
   padding-top: 10px;
    font-family: "Arial", sans-serif;
   }
 
-.container hr{
+#main hr{
   display:block;
   margin-top:0.5em;
   margin-botton:0.5em;
@@ -74,9 +74,6 @@ li a.active{
   float:left;
 }
 
-.row{
-  display:inline;
-}
 #rightNav{
   float:right;
 }
