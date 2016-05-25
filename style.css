@@ -52,7 +52,7 @@ li a.active{
  font-weight:bold;
 }
 
-section{
+#main{
   width:450px;
   float:left;
   padding-left:30px;
