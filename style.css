@@ -28,6 +28,10 @@ body {
 }
 }
 
+#marquee{
+  height:900px;
+}
+
 #rightNav ul{
   list-style-type: none;
   margin:0;
@@ -75,6 +79,9 @@ aside{
   padding-right:30px;
 }
 
+#newsStories{
+height:500px;  
+}
 
 article{
   padding:20px
