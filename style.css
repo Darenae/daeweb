@@ -112,6 +112,44 @@ aside{
   padding:5px 15px;
   float:left;
 }
+
+@media screen and (max-width:980px){
+  #news{
+    width:94%;
+  }
+  #col1{
+    width:41%;
+    padding:1% 4%;
+  }
+  #col2{
+    width:41%;
+    padding: 1% 4%;
+    margin: 0px 0px 5px 5px;
+    float:right;
+  }
+  #col3{
+    clear:both;
+    padding:1% 4%;
+    width:auto;
+    float:none;
+  }
+}
+
+@media screen and(max-width:600px){
+  #col1{
+    width:auto;
+    float:none;
+  }
+  #col2{
+    width:auto;
+    float:none;
+    margin-left:0px;
+  }
+  #col3{
+    width:auto;
+    float:none;
+  }
+}
 /*#video{
   float:bottom;
 }*/
