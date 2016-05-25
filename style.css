@@ -93,3 +93,7 @@ aside{
   -moz-column-rule: 4px outset #ff00ff;
   column-rule: 4px outset #ff00ff;
 }
+
+#video{
+  float:bottom;
+}
