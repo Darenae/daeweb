@@ -53,7 +53,7 @@ li a.active{
 }
 
 section{
-  width:350px;
+  width:450px;
   float:left;
   padding:10px;
   padding-top:250px;
@@ -82,8 +82,10 @@ section{
 }
 
 aside{
+  text-align: right;
   padding-top:250px;
 }
+
 #rightNav{
   float:right;
 }
