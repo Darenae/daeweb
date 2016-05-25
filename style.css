@@ -55,7 +55,7 @@ li a.active{
 section{
   width:450px;
   float:left;
-  padding:30px;
+  padding-left:30px;
   padding-top:250px;
 }
 
@@ -85,6 +85,6 @@ aside{
   text-align: right;
   padding-top:250px;
   float:right;
-  padding:30px;
+  padding-right:30px;
 }
 
