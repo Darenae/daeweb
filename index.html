@@ -108,7 +108,7 @@
     <style>
       body{font-family:'Inconsolata', sans-serif;}
       /*div{border:1px solid red;}*/
-      section{border: 1px solid green;}
+      /*section{border: 1px solid green;}*/
       article{border: 1px solid blue;}
       mark{color: white; background-color: black;}
       li{padding-left: 45px;}
@@ -118,7 +118,8 @@
       #marquee h1{font-size: 60px; line-height: 80px; padding: 100px 0 0 0;}
       section{margin: 60px 0 0 0;}
       section > header > h1{text-transform: uppercase; font-size: 25px; margin-bottom: 50px;}
-      
+      #hireMe{margin: 50px 0 0 0; background-color:#EEE;}
+      #hireMe h1{font-size:40px; color:#555;}
     </style>
     
   </head>
@@ -133,7 +134,7 @@
           <h1>Hello, I'm Darenae Evans<mark>Student</mark>from Woodbridge, VA</h1>
         </header>
       </div>
-      <section id="myWork">
+      <section id="myWork" class="container">
         <header>
           <h1>See my work</h1>
           </header>
@@ -167,7 +168,7 @@
             Article 6
           </article>
       </section>
-      <section>
+      <section class="container">
         <header>
           <h1>Clients</h1>
         </header>
@@ -184,11 +185,11 @@
           Client 4
         </article>
       </section>
-      <section>
+      <section id="hireMe" class="container">
         <header>
-          <h1>Hire me for your next project!</h1>
+          <h1 class="col-md-offset-3 col-md-7">Hire me for your next project!</h1>
         </header>
-        <a href="#">Get my free quote</a>
+        <a href="#" class="col-md-offset-4 col-md-5">Get my free quote</a>
       </section>
       <footer>
         <h1>About Me</h1>
