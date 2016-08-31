@@ -54,6 +54,8 @@ a:visited{color:#65b1ff;}
 }
 
 .container li img {
+  max-width: 100%;
+  height:auto;
   position: absolute;
   top: 0;
   left: 800px;
