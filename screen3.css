@@ -213,12 +213,13 @@ footer div.content a {margin: 0 20px 0 0;}
 @media screen and (max-width: 425px){
 
 /* Header */
-header{height:110px; /*background-image:url(../images/banner_425.jpg);*/}
+/*header{height:110px; background-image:url(../images/banner_425.jpg);}
 
 
 header div.hero{width: 100%; left: 0px; top:46px; text-align: center;}
-header div.hero h1{font-size: 1em; margin-bottom: 10px;}
+header div.hero h1{font-size: 1em; margin-bottom: 10px;}*/
 
+.container{display:none;}
 
 /* Footer */
 footer::after{content:''; display: block: clear: both;}
