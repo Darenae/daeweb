@@ -126,13 +126,13 @@ section.main .content{margin: 15px; background: no-repeat center top; background
 section.main aside h3 a {color:#000; text-decoration: none;}
 section.main aside h3 a:hover{text-decoration:underline;}
 
-section.main aside .content.trending{background-image:url(../images2/icon_star.svg);}
-section.main aside .content.find-it{background-image:url(../images/icon_marker.svg);}
-section.main aside .content.tools{background-image:url(../images/icon_gear.svg);}
+section.main aside .content.trending{background-image:url(picture1.jpg);max-height:100%;max-width:100%;}
+section.main aside .content.find-it{background-image:url(picture2.jpg);max-height:100%;max-width:100%;}
+section.main aside .content.tools{background-image:url(picture3.jpg);max-height:100%;max-width:100%;}
 
-section.main aside .content.trending2{background-image:url(../images2/CN_chicagosunset.svg);}
-section.main aside .content.find-it2{background-image:url(../images2/picture1.svg);}
-section.main aside .content.tools2{background-image:url(../images2/ClipartOf_com.svg);}
+section.main aside .content.trending2{background-image:url(picture4.jpg);max-height:100%;max-width:100%;}
+section.main aside .content.find-it2{background-image:url(picture5.jpg);max-height:100%;max-width:100%;}
+section.main aside .content.tools2{background-image:url(picture6.jpg);max-height:100%; max-width:100%;}
 
 
 /* Footer */
