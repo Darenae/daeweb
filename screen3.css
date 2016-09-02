@@ -22,17 +22,6 @@ a:visited{color:#65b1ff;}
 .navbar{opacity:0.85;filter: alpha(opacity=85);}
 
 
-/* Header*/
-
-/*header{height: 430px; background:#000033 url(../images2/CN_chicagosunset.jpg) no-repeat center bottom;position:relative;}*/
-
-/*header div.hero{position: absolute; width: 42%; top: 130px; left: */
-/*header div.hero h1 {line-height: 1em; margin: 0 0 30px 0;color: #fff;display:inline-block;}*/
-
-/*header div.hero ul{display:inline-block;}*/
-
-
-
 /* Right Nav */
 
 
@@ -73,18 +62,18 @@ a:visited{color:#65b1ff;}
   background: #fff;
 }*/
 
-/*nav h1 {
+h1.head {
   padding: 20px;
   color: #ccc;
   text-align: right;
   font: 25px Georgia, Times, serif;
 }*/
 
-/*nav ul {
-  width: 900px;
+ul.rnav {
+  width: 800px;
   height: 500px;
   list-style: none;
-}*/
+}
 
 li.right a {
   z-index: 1;
@@ -95,7 +84,7 @@ li.right a {
   background: white;
   color: #444;
   text-decoration: none;
-  /*font: 14px/30px Helvetica, Verdana, sans-serif;*/
+  font: 11px/14px Helvetica, Verdana, sans-serif;
 }
 
 li.right:nth-child(1) {
@@ -151,8 +140,8 @@ footer a::hover{color:#000;}
 h1{font-size: 2.4em;}
 
 /* Header */
-header div.hero {left:56%;}header 
-header div.hero h1 {margin-bottom: 20px;}
+/*header div.hero {left:56%;}header 
+header div.hero h1 {margin-bottom: 20px;}*/
 
 
 }
