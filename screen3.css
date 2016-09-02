@@ -6,19 +6,10 @@ body {font-family: 'Open Sans', sans-serif; font-size: 16px; font-weight: 300; c
 
 /*#page{max-width:1200px; margin: 0 auto; position: relative;}*/
 
-/* Text */
-
-/*h1{margin: 0 0 1em 0; font-size 2.8em; font-weight: 700;}
-h2{margin: 0 0 .5em 0; font-size 1.6em; font-weight: 700; line-height: 1.1em;}
-h3{margin: 0 0 .5em 0; font-size 1.3em; font-weight: 700;}
-h4{margin: 0 0 1.5em 0; font-size 1em; font-weight: 700;}
-
-p{margin: 0 0 1em 0;}*/
-
 a{color: #007eff;}
 a:visited{color:#65b1ff;}
 
-#myNavbar a:hover {text-decoration: underline; -moz-text-decoration-color: red; text-decoration-          color: red;}
+#myNavbar a:hover {text-decoration: underline; -moz-text-decoration-color: red; text-decoration-color: red;}
 .navbar{opacity:0.85;filter: alpha(opacity=85);}
 
 
@@ -56,17 +47,11 @@ a:visited{color:#65b1ff;}
   transition: all 1s ease;
 }
 
-/* nav {
-  width: 170px;
-  height: 500px;
-  background: #fff;
-}*/
 
 h1.head {
   padding: 20px;
   color: #ff0000;
   text-align: right;
-  /*font: 25px Georgia, Times, serif;*/
   background:#fff;
 }
 
@@ -99,7 +84,6 @@ li.right a:hover {
 li.right a:hover + img {
   left: 0px;
 }
-
 
 /* Section All */
 
@@ -140,11 +124,6 @@ footer a::hover{color:#000;}
 
 h1{font-size: 2.4em;}
 
-/* Header */
-/*header div.hero {left:56%;}header 
-header div.hero h1 {margin-bottom: 20px;}*/
-
-
 }
 
 
@@ -153,10 +132,6 @@ header div.hero h1 {margin-bottom: 20px;}*/
 
 h1{font-size: 2.2em;}
 
-/* Header */
-/*header {height: 300px; background-image: url(../images/banner_825.jpg);} 
-header div.hero {top: 120px; left:48%;}*/
-
 
 }
 
@@ -164,12 +139,8 @@ header div.hero {top: 120px; left:48%;}*/
 
 @media screen and (max-width: 760px){
 
-/*h1{font-size: 1.8em;}
-h2{font-size: 1.4em;}
-h3{font-size: 1.1em;}*/
+h1{font-size: 1.8em;}
 
-/* Header */
-/*header div.hero{top:140px; left:48%;}*/
 
 /* Main */
 section.main{margin-top: 10px; margin-bottom:10px;}
@@ -179,14 +150,8 @@ section.main aside div.content{background-size:55px 55px; padding-top: 60px;}
 
 @media screen and (max-width: 625px){
 
-/*h1 {font-size: 1em;}
-h3 {margin-bottom: 0px;}*/
+h1 {font-size: 1em;}
 
-/* Header */
-/*header{height: 160px; background-image: url(../images/banner_625.jpg); background-position: left top;}
-
-header div.hero{width: 300px; top:85px; left: 130px;}
-header div.hero h1{margin-bottom: 10px;}*/
 
 /* Main */
 section.main aside{width:100%; float:none; text-align: left;}
@@ -201,12 +166,6 @@ footer div.content a {margin: 0 20px 0 0;}
 
 @media screen and (max-width: 425px){
 
-/* Header */
-/*header{height:110px; background-image:url(../images/banner_425.jpg);}
-
-
-header div.hero{width: 100%; left: 0px; top:46px; text-align: center;}
-header div.hero h1{font-size: 1em; margin-bottom: 10px;}*/
 
 .container{display:none;}
 #scroll{display:none;}
