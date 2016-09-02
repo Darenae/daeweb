@@ -66,7 +66,7 @@ h1.head {
   padding: 20px;
   color: #ccc;
   text-align: right;
-  font: 25px Georgia, Times, serif;
+  /*font: 25px Georgia, Times, serif;*/
   background:#fff;
 }
 
@@ -154,8 +154,8 @@ header div.hero h1 {margin-bottom: 20px;}*/
 h1{font-size: 2.2em;}
 
 /* Header */
-header {height: 300px; /*background-image: url(../images/banner_825.jpg);*/} 
-header div.hero {top: 120px; left:48%;}
+/*header {height: 300px; background-image: url(../images/banner_825.jpg);} 
+header div.hero {top: 120px; left:48%;}*/
 
 
 }
@@ -164,12 +164,12 @@ header div.hero {top: 120px; left:48%;}
 
 @media screen and (max-width: 760px){
 
-h1{font-size: 1.8em;}
+/*h1{font-size: 1.8em;}
 h2{font-size: 1.4em;}
-h3{font-size: 1.1em;}
+h3{font-size: 1.1em;}*/
 
 /* Header */
-header div.hero{top:140px; left:48%;}
+/*header div.hero{top:140px; left:48%;}*/
 
 /* Main */
 section.main{margin-top: 10px; margin-bottom:10px;}
@@ -179,14 +179,14 @@ section.main aside div.content{background-size:55px 55px; padding-top: 60px;}
 
 @media screen and (max-width: 625px){
 
-h1 {font-size: 1em;}
-h3 {margin-bottom: 0px;}
+/*h1 {font-size: 1em;}
+h3 {margin-bottom: 0px;}*/
 
 /* Header */
-header{height: 160px; /*background-image: url(../images/banner_625.jpg);*/ background-position: left top;}
+/*header{height: 160px; background-image: url(../images/banner_625.jpg); background-position: left top;}
 
 header div.hero{width: 300px; top:85px; left: 130px;}
-header div.hero h1{margin-bottom: 10px;}
+header div.hero h1{margin-bottom: 10px;}*/
 
 /* Main */
 section.main aside{width:100%; float:none; text-align: left;}
